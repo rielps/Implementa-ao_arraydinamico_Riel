@@ -24,3 +24,4 @@ int main(){
   //}
   //std::cout << lista.percent_occupied();
   }
+//
